@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remote fetch="https://github.com/CurieBSP/" name="github"/>
-  <default revision="master" remote="github"/>
+  <default revision="v3.1" remote="github"/>
 
   <project name="main" path="wearable_device_sw"/>
   <project name="bootloader" path="wearable_device_sw/bsp/bootable/bootloader"/>
